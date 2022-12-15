@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * _abs - calculate absolute value of the number from zero
- * @i: parameter
- * Return: absolute value of input
+ * @i: parameter.
+ * Return: absolute value of input.
  */
-int _abs(int 1)
+int _abs(int i)
 {
 	if (i < 0)
 		i = i * -1;
