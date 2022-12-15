@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * checks for lowercase letters
+ * _islower - checks for lowercase letters
  * @c: parameter
  * Return: 0 (success)
  */
@@ -14,5 +14,5 @@ int _islower(int c)
 	{
 		return (0);
 	}
-	_putchar ('n');
+	_putchar ('\n');
 }
